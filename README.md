@@ -1,0 +1,2 @@
+# greed
+greed-is-bad
