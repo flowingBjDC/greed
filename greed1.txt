@@ -1,2 +1,7 @@
 Don't be greed
 greed greed be txt test dsafd
+
+​	git config --global http.proxy http://127.0.0.1:1087
+
+为全球年轻人打造高品质，且拥有旗舰体验、超预期的手机与智能硬件产品
+
